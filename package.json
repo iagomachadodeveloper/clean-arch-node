@@ -8,7 +8,9 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "git-commit-msg-linter": "^5.0.4"
+  "devDependencies": {
+    "@types/node": "^20.5.7",
+    "git-commit-msg-linter": "^5.0.4",
+    "typescript": "^5.2.2"
   }
 }
